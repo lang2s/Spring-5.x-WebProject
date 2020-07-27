@@ -1,9 +1,7 @@
-package org.zerock.mapper;
+package org.spring.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.spring.domain.MemberVO;
-import org.spring.mapper.MemberMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
@@ -14,18 +12,22 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration({"file:src/main/webapp/WEB-INF/spring/root-context.xml"})
-public class MemberMapperTests {
+public class SampleTxServiceTests {
 
-	@Setter(onMethod_ = @Autowired)
-	private MemberMapper mapper;
+	@Setter(onMethod_ = {@Autowired})
+	private SampleTxService service;
 	
 	@Test
-	public void testRead() {
+	public void testLong() {
 		
-		MemberVO vo = mapper.read("user90");
+		String str = "Starry\r\n" +
+				"Starry night\r\n" +
+				"Paint your palette blue and grey\r\n" +
+				"Look out on a summer's day";
 		
-		log.info("vo: " + vo);
+		log.info("testLong: " + str.getBytes().length);
 		
-		vo.getAuthList().forEach(authVO -> log.info("authVO: " + authVO));
+		service.addData(str);
 	}
+	
 }

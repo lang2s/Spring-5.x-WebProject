@@ -1,4 +1,4 @@
-package org.zerock.controller;
+package org.spring.controller;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
