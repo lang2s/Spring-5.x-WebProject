@@ -19,7 +19,7 @@ Screenshots
 
 + 게시판
 
-<img width="729" alt="게시판" src="https://user-images.githubusercontent.com/56714431/88509497-282e3500-d01c-11ea-8c5c-1a0b96e23380.PNG">
+<img width="718" alt="main" src="https://user-images.githubusercontent.com/56714431/90411967-7ac4b380-e0e7-11ea-8759-cc825b7519b8.PNG">
 
 + 게시판 등록
 
@@ -30,6 +30,10 @@ Screenshots
 + 수정
 
 <img width="726" alt="수정" src="https://user-images.githubusercontent.com/56714431/88509483-25cbdb00-d01c-11ea-9ca9-c2178d6b2d69.PNG">
+
++ 파일 업로드
+
+<img width="715" alt="파일업로드" src="https://user-images.githubusercontent.com/56714431/90411933-6ed8f180-e0e7-11ea-913c-3745b749512c.PNG">
 
 + 페이징
 <img width="334" alt="페이징" src="https://user-images.githubusercontent.com/56714431/88509489-26fd0800-d01c-11ea-851b-435bd4652c68.PNG">
