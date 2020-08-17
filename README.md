@@ -23,6 +23,7 @@ Screenshots
 + 게시판 등록
 
 <img width="734" alt="게시판등록" src="https://user-images.githubusercontent.com/56714431/88509486-26647180-d01c-11ea-805f-bcd5508df7db.PNG">
+
 <img width="742" alt="게시판 디테일" src="https://user-images.githubusercontent.com/56714431/88509500-295f6200-d01c-11ea-810c-6c8b9944af2e.PNG">
 
 + 수정
