@@ -25,6 +25,8 @@ Screenshots
 
 <img width="734" alt="게시판등록" src="https://user-images.githubusercontent.com/56714431/88509486-26647180-d01c-11ea-805f-bcd5508df7db.PNG">
 
++ 게시판 상세페이지
+
 <img width="742" alt="게시판 디테일" src="https://user-images.githubusercontent.com/56714431/88509500-295f6200-d01c-11ea-810c-6c8b9944af2e.PNG">
 
 + 수정
@@ -36,11 +38,14 @@ Screenshots
 <img width="715" alt="파일업로드" src="https://user-images.githubusercontent.com/56714431/90411933-6ed8f180-e0e7-11ea-913c-3745b749512c.PNG">
 
 + 페이징
+
 <img width="334" alt="페이징" src="https://user-images.githubusercontent.com/56714431/88509489-26fd0800-d01c-11ea-851b-435bd4652c68.PNG">
 
 + 댓글
 
 <img width="748" alt="댓글 첩부파일" src="https://user-images.githubusercontent.com/56714431/88509479-249aae00-d01c-11ea-8240-c09f1f0641a3.PNG">
+
++ 댓글 상세페이지
 
 <img width="506" alt="댓글수정" src="https://user-images.githubusercontent.com/56714431/88509484-25cbdb00-d01c-11ea-96bc-c308446b9b00.PNG">
 
