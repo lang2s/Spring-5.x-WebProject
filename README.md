@@ -29,7 +29,7 @@ Screenshots
 
 <img width="742" alt="게시판 디테일" src="https://user-images.githubusercontent.com/56714431/88509500-295f6200-d01c-11ea-810c-6c8b9944af2e.PNG">
 
-+ 수정
++ 수정 & 
 
 <img width="726" alt="수정" src="https://user-images.githubusercontent.com/56714431/88509483-25cbdb00-d01c-11ea-9ca9-c2178d6b2d69.PNG">
 
